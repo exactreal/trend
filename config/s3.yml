@@ -1,0 +1,9 @@
+staging:
+  aws_access_key: AKIAIKUNVTYQTKMZD5KQ
+  aws_secret_access_key: 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
+  bucket_base_name: mobson
+
+production:
+    aws_access_key: AKIAIKUNVTYQTKMZD5KQ
+    aws_secret_access_key: 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
+    bucket_base_name: mobson
